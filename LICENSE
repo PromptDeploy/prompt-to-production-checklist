@@ -1,21 +1,30 @@
-MIT License
+Business Source License 1.1
 
-Copyright (c) 2025 Prompt/Deploy
+License Notice
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+The contents of this repository are made available under the terms of the Business Source License 1.1 (the “License”).
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+The License applies to the “Licensed Work,” which is the contents of this repository.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Licensor: Kappa Innovation LLC
+
+Licensed Work: AI-Native Dev Cheatsheet
+
+Change Date: June 1, 2028
+
+Change License: Apache License, Version 2.0
+
+Use Limitation: The Licensed Work may be used, copied, modified, and distributed, subject to the following limitation:
+
+Use is permitted for all non-commercial purposes. Use for a commercial purpose is not permitted.
+
+For purposes of this license, “commercial purpose” means the use of the Licensed Work in any manner that is intended for or directed toward commercial advantage or monetary compensation.
+
+On the Change Date, the License will automatically convert to the Change License, which will apply to the Licensed Work perpetually and irrevocably from that date forward.
+
+You may obtain a copy of the License at:
+https://mariadb.com/bsl11
+
+This License does not grant you any trademark rights, and you may not use the names, logos, or branding of the Licensor without express written permission.
+
+Unless required by applicable law or agreed to in writing, the Licensed Work is provided on an “AS IS” BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
